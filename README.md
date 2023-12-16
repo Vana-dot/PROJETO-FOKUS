@@ -1,7 +1,7 @@
 # **Projeto fokus - POMODORO**
 
 Projeto desenvolvido no  **curso de
-JavaScript: manipulando o DOM** da ***Alura**, onde se tratar de um pomodoro para o gerenciamento de tempo!!
+JavaScript: manipulando o DOM** da ***Alura***, onde se tratar de um pomodoro para o gerenciamento de tempo!!
 
 ## Demonstração
 
