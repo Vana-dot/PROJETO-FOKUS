@@ -7,10 +7,10 @@ JavaScript: manipulando o DOM** da ***Alura**, onde se tratar de um pomodoro par
 
 ### ***Parte do foco***
 
-![Print de tela da seção principal]('./assets/imagens/printTela.png')
+![Print de tela da seção principal](./assets/imagens/printTela.png)
 
 ### ***Parte do descanso curto e longo***
 
-![Print de tela da seção descanso]('./assets/imagens/printTela-descanso.png')
+![Print de tela da seção descanso](./assets/imagens/printTela-descanso.png)
 
-![Print de tela da seção descanso-longo]('./assets/imagens/printTela-descansolongo.png')
+![Print de tela da seção descanso-longo](./assets/imagens/printTela-descansolongo.png)
